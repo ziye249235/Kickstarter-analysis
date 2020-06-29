@@ -7,7 +7,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date 
-This analysis was made in order to 
+This analysis was made in order to find out if launching a theater kickstarter campaign in a particular month can help it become successful. In order to do this, I analyzed the Kickstarter data by filtering all campaigns in the theater subcategory and creating a pivot table to see the outcomes based on month of campaign created. 
 
 ### Analysis of Outcomes Based on Goals
 

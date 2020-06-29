@@ -11,13 +11,10 @@ This analysis was made in order to find out if launching a theater kickstarter c
 
 ![Theater Outcomes_Vs_Launch](https://raw.githubusercontent.com/ziye249235/Kickstarter-challenge/master/Resources/Theater_Outcomes_vs_Launch.png)
 
-We can analyze based on the result chart that the month of May has historically had the most successful theater kickstarted campaigns. There is no month where there is a significant higher amount of failed or canceled campaigns. 
-
 ### Analysis of Outcomes Based on Goals
 This analysis was made in order to find out whether setting a higher or lower goal for kickstarters with a play subcategory can affect the outocme of whether it will be successful. In order to do this, I analyzed the Kickstarter data by counting the outcomes of successful, failed and canceled campaigns based on a goal $ range for all play kickstarters. Here is the result:
 
 ![outcomes based on Goals](https://raw.githubusercontent.com/ziye249235/Kickstarter-challenge/master/Resources/Outcomes_vs_Goals.png)
-
 
 ### Challenges and Difficulties Encountered
 
